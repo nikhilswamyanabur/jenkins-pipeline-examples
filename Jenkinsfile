@@ -1,3 +1,5 @@
+
+#this is jenkinfile for declarative
 // Jenkinsfile
 // ----------------------------------------------------------------------
 // This is as simple as it gets with declarative pipeline
